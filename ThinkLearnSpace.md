@@ -25,7 +25,7 @@ Check out how the law is being expressed as structured open data and accessible 
 * State Decoded API  (Application Programming Interface) 
 http://statedecoded.github.io/documentation/api.html
 
-Generl documentation: http://statedecoded.github.io/documentation/ 
+General documentation: http://statedecoded.github.io/documentation/ 
 
 ## What we are doing with the law for a big data world we would want to live in
 * The New Deal on Data
