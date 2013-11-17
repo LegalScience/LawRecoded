@@ -13,6 +13,8 @@ Lina Kaisey, Harvard Law School
 OAuth2 Design Pattern
 * OAuth2 Standard (from the IETF): 
 http://tools.ietf.org/html/rfc6749 
+*OAuth 2.0 Authorization Framework: Bearer Token Usage
+http://tools.ietf.org/html/rfc6750
 
 * Kansas Business Center Report (ok overview of the coolness and power of this design pattern)
 http://kansasbusinesscenter.com/report
