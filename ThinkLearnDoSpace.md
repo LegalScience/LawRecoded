@@ -2,12 +2,12 @@ MIT Media Lab Computational Legal Science Intern:
 Lina Kaisey, Harvard Law School 
 
 
-#Think
+# Think
 
 
 
 
-#Learn
+# Learn
 
 ## The Amazing Capability for User Personal Data Control You Didn't Even Know You (and we all) have!
 OAuth2 Design Pattern
@@ -31,3 +31,10 @@ Generl documentation: http://statedecoded.github.io/documentation/
 * The New Deal on Data
 * ClearButton / IAuth
 * Book Chapter in our Repository: 
+
+# Do
+
+* Read the materials referenced in the "Learn" section above.
+
+* Brief IETF OAuth 2 Specifications:
+> https://github.com/LegalScience/LawRecoded/blob/master/brief-ietf-oauth2.md
