@@ -59,7 +59,7 @@ Authoritative Source:
  
    (F)  The resource server validates the access token, and if valid, serves the request.
  
-# Possible Issues 
+# Possible Issues <COMMENT: add link to doc: https://datatracker.ietf.org/doc/draft-cooper-ietf-privacy-requirements/?include_text=1>
  (source: The OAuth 2.0 Authorization Framework: Bearer Token Usage)
  
 * Token manufacture/modification:  An attacker may generate a bogustoken or modify the token contents (such as the authentication or attribute statements) of an existing token, causing the resource server to grant inappropriate access to the client.  For example, an attacker may modify the token to extend the validity period; a malicious client may modify the assertion to gain access to information that they should not be able to view.
