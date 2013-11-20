@@ -8,3 +8,6 @@ http://statedecoded.github.io/documentation/api.html
 
 OpenGovFoundation Annotations Project:
 http://opengovfoundation.org/you-deserve-write-permission-on-government-and-were-giving-it-to-you/
+
+W3C Spec
+http://www.openannotation.org/spec/core/
