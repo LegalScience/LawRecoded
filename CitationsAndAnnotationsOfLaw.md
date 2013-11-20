@@ -7,6 +7,10 @@ https://github.com/CityOfBoston/Code-Ordinances
 Our research collaboration notes from legal science perspective:
 https://github.com/CityOfBoston/Code-Ordinances/blob/master/LegalScienceNotes.md 
 
+* How to cite to federal privacy act: 5 U.S.C. § 552a
+* How to cite to mass general code 66a: Mass. Gen. L. c.66A; or Mass. Gen. Laws Ann. ch. 66A
+* How to cite municipal code: Boston, Massachusetts, Municipal Code § 302-3.
+
 Research:
 
 Key Projects:
