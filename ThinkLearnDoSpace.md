@@ -25,7 +25,7 @@ Check out how the law is being expressed as structured open data and accessible 
 * State Decoded API  (Application Programming Interface) 
 http://statedecoded.github.io/documentation/api.html
 
-Generl documentation: http://statedecoded.github.io/documentation/ 
+General documentation: http://statedecoded.github.io/documentation/ 
 
 ## What we are doing with the law for a big data world we would want to live in
 * The New Deal on Data
@@ -35,6 +35,14 @@ Generl documentation: http://statedecoded.github.io/documentation/
 # Do
 
 * Read the materials referenced in the "Learn" section above.
+* Find Boston Ordinance creating health inspector position?
+
+# Work Product (Notes)
+* How to cite to federal privacy act: 5 U.S.C. § 552a
+* How to cite to mass general code 66a: Mass. Gen. L. c.66A; or Mass. Gen. Laws Ann. ch. 66A
+* How to cite municipal code: Boston, Massachusetts, Municipal Code § 302-3.
+
+
 
 * Brief IETF OAuth 2 Specifications:
 > https://github.com/LegalScience/LawRecoded/blob/master/brief-ietf-oauth2.md
