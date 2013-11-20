@@ -13,6 +13,8 @@ https://github.com/CityOfBoston/Code-Ordinances/blob/master/LegalScienceNotes.md
 
 Research:
 
+http://datacoalition.com/issues/data-act.html
+
 Key Projects:
 http://www.openannotation.org/
  - W3C Project Spec: http://www.openannotation.org/spec/core/ 
