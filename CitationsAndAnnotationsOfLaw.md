@@ -19,9 +19,27 @@ http://xml.coverpages.org/neutral-legal-citation-data-and-markup-models.html
 and Wikipedia Overview: http://en.wikipedia.org/wiki/Legal_citation 
 
 ## Legal Citation Samples:
-* How to cite to federal privacy act: 5 U.S.C. § 552a
-* How to cite to mass general code 66a: Mass. Gen. L. c.66A; or Mass. Gen. Laws Ann. ch. 66A
-* How to cite municipal code: Boston, Massachusetts, Municipal Code § 302-3
+* Short form citation to an individual provision of the U.S. Code (BlueBook Rule 12):
+1. Title number
+2. Abbreviation of Code Cited
+3. Section symbol and specific section cited
+4. date of code edition cited
+
+"5 U.S.C. § 552a"
+
+* Short form citation to Massachusetts General Laws (BlueBook T1.3):
+
+MASS. GEN. LAWS ch. x § x
+
+This format is commonly abbreviated to “M.G.L. ch. x § x” or “M.G.L.c. x § x” in briefs and court opinions
+
+* Citation to Boston Municipal Code
+
+Though not included in the Bluebook, Boston ordinances are cited to as follows:
+
+Long form: City of Boston Code, Ordinances, § 5-8.1 (as amended through 1979) 
+Short form: “CBC § 5-8.1” or “Boston Municipal Ordinance § x”
+
 
 ## Citing to Electronic Information
 http://www.law.cornell.edu/citation/2-100.htm
