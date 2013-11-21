@@ -5,6 +5,9 @@ Notes and resources for approaches to data structure, tagging, citations and ann
 Repository for City of Boston Ordinances:
 https://github.com/CityOfBoston/Code-Ordinances
 
+# Code for America, Boston Brigade Work on Boston City Ordinances
+http://www.meetup.com/Code-for-Boston/events/141074562/?a=me2_grp&rv=me2&_af_eid=141074562&_af=event
+
 Our research collaboration notes from legal science perspective:
 https://github.com/CityOfBoston/Code-Ordinances/blob/master/LegalScienceNotes.md 
 
