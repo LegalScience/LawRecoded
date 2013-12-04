@@ -31,6 +31,11 @@ General documentation: http://statedecoded.github.io/documentation/
 * The New Deal on Data
 * ClearButton / IAuth
 * Book Chapter in our Repository: 
+ 
+## How to "Beautify" code in JSON format:
+* copy raw JSON text
+* copy into "http://jsbeautifier.org"
+* Hit ctr-enter or button named "Beautify JavaScript or HTML" (immediately above the textbox)
 
 # Do
 
