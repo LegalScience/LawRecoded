@@ -32,6 +32,18 @@ General documentation: http://statedecoded.github.io/documentation/
 * ClearButton / IAuth
 * Book Chapter in our Repository: 
 
+
+# Do
+
+* Read the materials referenced in the "Learn" section above.
+* Find Boston Ordinance creating health inspector position?
+
+# Work Product (Notes)
+* How to cite to federal privacy act: 5 U.S.C. § 552a
+* How to cite to mass general code 66a: Mass. Gen. L. c.66A; or Mass. Gen. Laws Ann. ch. 66A
+* How to cite municipal code: Boston, Massachusetts, Municipal Code § 302-3.
+
+
 ## MA Law Project Tags - chapter 214 section 3B:
 
 *   "_id": "c214s3B",
@@ -50,16 +62,6 @@ General documentation: http://statedecoded.github.io/documentation/
 * copy raw JSON text
 * copy into "http://jsbeautifier.org"
 * Hit ctr-enter or button named "Beautify JavaScript or HTML" (immediately above the textbox)
-
-# Do
-
-* Read the materials referenced in the "Learn" section above.
-* Find Boston Ordinance creating health inspector position?
-
-# Work Product (Notes)
-* How to cite to federal privacy act: 5 U.S.C. § 552a
-* How to cite to mass general code 66a: Mass. Gen. L. c.66A; or Mass. Gen. Laws Ann. ch. 66A
-* How to cite municipal code: Boston, Massachusetts, Municipal Code § 302-3.
 
 
 
